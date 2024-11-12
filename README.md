@@ -6,25 +6,25 @@ The LapMart Manager CRM automates the management of laptop rentals, sales, custo
 
   ### Business Goals
   
-⚪ Automate and streamline the process of renting and selling laptops to customers, reducing manual effort and increasing efficiency.<br>
-⚪ Track customer interactions, rental histories, and purchase records to support customer relationship management (CRM).<br>
-⚪ Automate billing and reminders for late returns to ensure efficient payment collection and timely laptop returns.<br>
+- Automate and streamline the process of renting and selling laptops to customers, reducing manual effort and increasing efficiency.<br>
+- Track customer interactions, rental histories, and purchase records to support customer relationship management (CRM).<br>
+- Automate billing and reminders for late returns to ensure efficient payment collection and timely laptop returns.<br>
 
 ### Specific Outcomes
 
-⚪ A fully functional CRM platform for managing laptop rentals, sales, customer details, and payments.<br>
-⚪ Automated billing system with calculated rental fees and late fees.<br>
-⚪ Integration of overdue reminders to minimize late returns.<br>
-⚪ Tracking of inventory levels, rental/purchase history, and customer profiles for streamlined administration.<br>
+- A fully functional CRM platform for managing laptop rentals, sales, customer details, and payments.<br>
+- Automated billing system with calculated rental fees and late fees.<br>
+- Integration of overdue reminders to minimize late returns.<br>
+- Tracking of inventory levels, rental/purchase history, and customer profiles for streamlined administration.<br>
 
 # Salesforce Key Features and Concepts Utilized
 
-⚪ Custom Objects: Key objects include Laptop, Customer, Rental, Order, and Payment Process.<br>
-⚪ Formula Fields: Used in the Payment Process object to calculate total amounts and handle late fees.<br>
-⚪ Automated Workflows: Implemented for overdue rental reminders and automated email notifications based on End Date and payment status.<br>
-⚪ Validation Rules: Enforced across the system to ensure accurate data input, such as requiring Rental End Date to follow Rental Start Date.<br>
-⚪ Relationships: Lookup fields to manage associations between Laptops, Customers, Rentals, and Payments.<br>
-⚪ Apex Triggers: Used for automated tasks such as sending welcome emails and overdue reminders.<br>
+- Custom Objects: Key objects include Laptop, Customer, Rental, Order, and Payment Process.<br>
+- Formula Fields: Used in the Payment Process object to calculate total amounts and handle late fees.<br>
+- Automated Workflows: Implemented for overdue rental reminders and automated email notifications based on End Date and payment status.<br>
+- Validation Rules: Enforced across the system to ensure accurate data input, such as requiring Rental End Date to follow Rental Start Date.<br>
+- Relationships: Lookup fields to manage associations between Laptops, Customers, Rentals, and Payments.<br>
+- Apex Triggers: Used for automated tasks such as sending welcome emails and overdue reminders.<br>
 
 ## Apex Code for Schedulable Class Overdue Reminder
 ```java
@@ -95,11 +95,18 @@ The project has been thoroughly tested through:
 
 ## Key Scenarios Addressed by Salesforce
 
-⚪Laptop Rental Process: Manages all steps of the laptop rental and sales process, from creating rentals to billing customers and sending reminders.<br>
-⚪Overdue Reminders: Sends automated reminders for overdue laptops, ensuring timely returns and minimizing delays.<br>
-⚪Inventory Management: Tracks laptop availability, rental durations, and restocking.<br>
+-Laptop Rental Process: Manages all steps of the laptop rental and sales process, from creating rentals to billing customers and sending reminders.<br>
+-Overdue Reminders: Sends automated reminders for overdue laptops, ensuring timely returns and minimizing delays.<br>
+-Inventory Management: Tracks laptop availability, rental durations, and restocking.<br>
 
 ## Documentation
 
 For a detailed description of the project, including objectives, key features, and testing, refer to the project documentation:
 📝 [Project Documentation](https://docs.google.com/document/d/1uanTmf2EBOhnzSwOtzumaOiXS_DMnpdH/edit?usp=sharing&ouid=109289624338024625163&rtpof=true&sd=true)
+
+## Video Link
+For a detailed demonstration video click here: 🎥 [Youtube Link]()
+
+---
+
+Feel free to explore the project and contribute if you'd like to enhance its features or improve the functionality!
