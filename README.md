@@ -105,7 +105,7 @@ For a detailed description of the project, including objectives, key features, a
 📝 [Project Documentation](https://docs.google.com/document/d/1uanTmf2EBOhnzSwOtzumaOiXS_DMnpdH/edit?usp=sharing&ouid=109289624338024625163&rtpof=true&sd=true)
 
 ## Video Link
-For a detailed demonstration video click here: 🎥 [Youtube Link]()
+For a detailed demonstration video click here: 🎥 [Youtube Link](https://youtu.be/SLtU1PRzsng)
 
 ---
 
