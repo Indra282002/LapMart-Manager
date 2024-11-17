@@ -3,7 +3,7 @@
 The LapMart Manager CRM automates the management of laptop rentals, sales, customer interactions, billing, and overdue reminders. This system utilizes Salesforce components such as custom objects, validation rules, flows, Apex classes, and dashboards to streamline rental and sales processes. The goal is to provide an efficient, automated experience for both rentals and purchases, offering timely reminders, inventory tracking, and payment management.
 
 # LapMart Manager Logo
-![LapMart Manger Logo](laptop Manager.png)
+![LapMart Manger Logo](images/laptop Manager.png)
 
 # Objectives
 
